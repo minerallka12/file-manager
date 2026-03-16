@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\dgil2\\desktop\\consoleapp1\\file-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:file-manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\dgil2\\desktop\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\dgil2\\desktop\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +28,36 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\file-manager\\Program.cs",
+              "RelativeDocumentMoniker": "file-manager\\Program.cs",
+              "ToolTip": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\file-manager\\Program.cs",
+              "RelativeToolTip": "file-manager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:32:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T06:45:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\dgil2\\Desktop\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T08:38:12.306Z",
               "EditorCaption": ""
